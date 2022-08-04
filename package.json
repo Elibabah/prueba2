@@ -1,0 +1,25 @@
+{
+    "name": "2-prueba2",
+    "version": "1.0.0",
+    "description": "algoritms",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Elibabah/prueba2.git"
+    },
+    "keywords": [
+        "algoritms"
+    ],
+    "author": "Elias",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Elibabah/prueba2/issues"
+    },
+    "homepage": "https://github.com/Elibabah/prueba2#readme",
+    "devDependencies": {
+        "eslint": "^8.21.0"
+    }
+}
